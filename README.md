@@ -1,3 +1,4 @@
+![alt text](https://github.com/ImamRamlan/Aplikasi-Pelayanan-Lelang/blob/main/public/for_readme/dashboard_admin.png?raw=true)
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
